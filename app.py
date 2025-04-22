@@ -62,4 +62,3 @@ if st.button("Calcular"):
         st.success(f"{variables[missing]} = {result:.4f}")
     except Exception as e:
         st.error(f"Error en el cálculo: {e}")
-        st.imagen(imagescr7.jpg)
