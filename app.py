@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("imagencr7.jp7")
+st.image("descarga.jpg")
 st.title("Calculadora de la Ecuación Combinada de los Gases Ideales")
 
 st.markdown("""
